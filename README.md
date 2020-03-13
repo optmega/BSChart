@@ -26,7 +26,7 @@
 
 ## Author
 
-zetplaner, zetplaner@gmail.com
+Josh N | Optmega.com
 
 ## License
 
