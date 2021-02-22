@@ -26,7 +26,7 @@
 
 ## Author
 
-Josh N | Optmega.com
+Spencer Pere | Optmega.com
 
 ## License
 
